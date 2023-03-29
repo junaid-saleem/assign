@@ -4,6 +4,8 @@ README.md: guessinggame.sh
 	echo "\n\n"
 
 	date >> README.md
+
+	echo "\n\n"
 	
 	echo "This program contain following no of lines" >> README.md
 	
