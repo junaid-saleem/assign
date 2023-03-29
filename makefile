@@ -1,6 +1,8 @@
 README.md: guessinggame.sh
 	echo "# Project Title = \"Guessing game\" " > README.md
 
+	echo "\n\n"
+
 	date >> README.md
 	
 	echo "This program contain following no of lines" >> README.md
