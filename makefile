@@ -1,5 +1,6 @@
 README.md: guessinggame.sh
 	echo "# Project Title = \"Guessing game\" " > README.md
+	#adding commit
 
 	echo "\n\n"
 
